@@ -1,0 +1,28 @@
+﻿  DStarLite.cpp
+src\DStarLite.cpp(425): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\DStarLite.cpp(426): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\DStarLite.cpp(631): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+src\DStarLite.cpp(589): warning C4101: 'i': unreferenced local variable
+src\DStarLite.cpp(697): warning C4018: '<': signed/unsigned mismatch
+src\DStarLite.cpp(709): warning C4018: '<': signed/unsigned mismatch
+src\DStarLite.cpp(729): warning C4018: '<': signed/unsigned mismatch
+src\DStarLite.cpp(737): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 1580 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FinalYearProject.vcxproj -> C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\Release\FinalYearProject.exe
+  FinalYearProject.vcxproj -> C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\Release\FinalYearProject.pdb (Full PDB)
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\openal32.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-audio-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-audio-d-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-graphics-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-graphics-d-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-network-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-network-d-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-system-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-system-d-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-window-2.dll
+  C:\Users\Liam\Desktop\FYP_1617_HoweL_C00178876\FinalYearProject\FinalYearProject\..\Dependencies\SFML\lib\x86\sfml-window-d-2.dll
+         11 file(s) copied.
